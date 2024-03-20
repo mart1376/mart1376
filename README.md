@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github! My Name is Nic! I am a Mobile and Web Developer from Canada! 
 
 <!--
 **mart1376/mart1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
