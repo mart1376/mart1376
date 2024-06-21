@@ -10,29 +10,6 @@ I'm a passionate front-end developer and UI/UX designer with a knack for creatin
 - **HTML5**
 - **CSS3**
 
-## Projects
-### Vibes Social Network - Mobile Application
-- **Description**: A mobile application designed to connect people through shared interests and activities. It features user profiles, activity feeds, and real-time messaging.
-- **Technologies Used**: React Native + Firebase
-- **Features**: User authentication, real-time notifications, live messaging, posting of image and videos.
-
-## Experience
-### Web Specialist and Spales Representative at Atmosphere & Bois
-- **Duration**: 2021 - Present
-- **Responsibilities**:
-  - Developed and maintained front-end code for company wordpress webpage.
-  - Collaborated with designers to create responsive and visually appealing user interfaces.
-
-## Education
-### Algonquin College
-- **Field of Study**: Mobile Application Design and Development
-- **Duration**: 2022-2024
-
-## Certifications
-- **Google UX Design**
-- **Udemy Node.js**
-- **Udemy React.js**
-
 ## Contact Me
 - **LinkedIn**: [Nicolas Martichenko](https://www.linkedin.com/in/nicolas-martichenko)
 - **Email**: [nicolasmartichenko@gmail.com](mailto:your.email@example.com)
